@@ -5,7 +5,6 @@ Ce cotmis est le comtis ou le code open soruce de mon bot Group 1#5341 est stock
 
 
 Je veux aider aux dévlopment du projet= 
-PAS LA 
-
+Merci de céer un 'pull resqeset' et de propsé votre code!
 INFORMATIONS SUPLÉMATAIRE
 
